@@ -6,13 +6,13 @@
 
 **Machine Learning**
 - TensorFlow Lite (TFLite)  
-- MoveNet / PoseNet (Pose Detection Models)  
+- PoseNet (Pose Detection Models)  
 - Real-time Camera Stream Processing  
 
 **Development Tools**
 - Android SDK  
 - Git & GitHub  
-- VS Code / Android Studio  
+- VS Code  
 
 **App Architecture**
 - Material Design  
